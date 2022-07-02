@@ -17,3 +17,7 @@ The Community Landing Page Circle's [COORDINATOR](coordinator.md) is: ???
 The Community Landing Page Circle's [FACILITATOR](facilitator.md) is: ???
 
 The Community Landing Page Circle's [SCRIBE](scribe.md) is: ???
+
+## Child Circles
+
+The Community Landing Page Circle created 3 child circles to take on the work of creating the site: a [Design Circle](design_circle.md), a [Content Circle](content_circle.md), and a [Technical Circle](technical_circle.md)
