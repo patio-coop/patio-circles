@@ -12,6 +12,8 @@ The Member Circle's [AIM](aim.md) is:
 
 The Member Circle's [DOMAIN](domain.md) is everything that isn't delegated to its child circles: [Coordination Circle](coordination_circle.md) or [Community Landing Page Circle](community_landing_page_circle.md)
 
+The Member Circle's [TERM](term.md) is: Indefinite
+
 The Member Circle's [COORDINATOR](coordinator.md) is: Nico with Yasu as backup
 
 The Member Circle's [FACILITATOR](facilitator.md) is: David with Naska as backup
