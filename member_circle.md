@@ -14,8 +14,8 @@ The Member Circle's [DOMAIN](domain.md) is everything that isn't delegated to it
 
 The Member Circle's [TERM](term.md) is: Indefinite
 
-The Member Circle's [COORDINATOR](coordinator.md) is: Nico with Yasu as backup
+The Member Circle's [COORDINATOR](coordinator.md) is: ???
 
-The Member Circle's [FACILITATOR](facilitator.md) is: David with Naska as backup
+The Member Circle's [FACILITATOR](facilitator.md) is: ???
 
-The Member Circle's [SCRIBE](scribe.md) is: Martu with Naska as backup
+The Member Circle's [SCRIBE](scribe.md) is: ???
